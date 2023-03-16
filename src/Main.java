@@ -135,5 +135,6 @@ public class Main {
                 + salaryDifDenisInYears + " рублей");
         System.out.println("Кристина теперь получает " + salaryKristinaAfter + " рублей. Годовой доход вырос на "
                 + salaryDifKristinaInYears + " рублей");
+
     }
 }
